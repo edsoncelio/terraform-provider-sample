@@ -1,2 +1,2 @@
 # terraform-provider-sample
-Based on https://www.hashicorp.com/blog/writing-custom-terraform-providers
+Based on https://learn.hashicorp.com/tutorials/terraform/provider-use?in=terraform/providers
